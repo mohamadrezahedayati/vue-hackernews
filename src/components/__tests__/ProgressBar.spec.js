@@ -59,4 +59,5 @@
       wrapper.vm.finish()
       expect(window.clearInterval).toHaveBeenCalledWith(123)
     })
+    // 179
   })
